@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordle-xray/static/css/main.bda9a63d.css",
+    "main.js": "/wordle-xray/static/js/main.b642c116.js",
+    "index.html": "/wordle-xray/index.html",
+    "main.bda9a63d.css.map": "/wordle-xray/static/css/main.bda9a63d.css.map",
+    "main.b642c116.js.map": "/wordle-xray/static/js/main.b642c116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda9a63d.css",
+    "static/js/main.b642c116.js"
+  ]
+}
